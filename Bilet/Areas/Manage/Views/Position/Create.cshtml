@@ -1,0 +1,15 @@
+﻿@model CreatePositionVM
+
+<div class="card-body">
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="Name">Full Name</label>
+            <input asp-for="Name" class="form-control" placeholder="Full Name">
+            <span asp-validation-for="Name"></span>
+        </div>
+        <div class="form-check form-check-flat form-check-primary">
+        </div>
+        <button type="submit" class="btn btn-primary me-2">Submit</button>
+        <button class="btn btn-light">Cancel</button>
+    </form>
+</div>

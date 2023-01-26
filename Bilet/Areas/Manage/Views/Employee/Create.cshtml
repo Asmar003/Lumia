@@ -1,0 +1,51 @@
+﻿
+@model CreateEmployeeVM
+
+<div class="card-body">
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="Name">Full Name</label>
+            <input asp-for="Name" class="form-control" placeholder="Full Name">
+            <span asp-validation-for="Name"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Image">Image</label>
+            <input asp-for="Image" class="form-control" placeholder="Image">
+            <span asp-validation-for="Image"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="PositionId">Position</label>
+            <select asp-for="PositionId" asp-items="@ViewBag.Position"></select>
+            <span asp-validation-for="PositionId"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="TwitterUrl">Twitter Link</label>
+            <input asp-for="TwitterUrl" class="form-control" placeholder="Twitter Link">
+            <span asp-validation-for="TwitterUrl"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="FacebookUrl">Facebook Link</label>
+            <input asp-for="FacebookUrl" class="form-control" placeholder="Facebook Link">
+            <span asp-validation-for="FacebookUrl"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="InstagramUrl">Instagram Link</label>
+            <input asp-for="InstagramUrl" class="form-control" placeholder="Instagram Link">
+            <span asp-validation-for="InstagramUrl"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="LinkedinUrl">Linkedin Link</label>
+            <input asp-for="LinkedinUrl" class="form-control" placeholder="Linkedin Link">
+            <span asp-validation-for="LinkedinUrl"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Description">Description</label>
+            <input asp-for="Description" class="form-control" placeholder="Description">
+            <span asp-validation-for="Description"></span>
+        </div>
+        <div class="form-check form-check-flat form-check-primary">
+        </div>
+        <button type="submit" class="btn btn-primary me-2">Submit</button>
+        <button class="btn btn-light">Cancel</button>
+    </form>
+</div>
