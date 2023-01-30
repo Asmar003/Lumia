@@ -41,7 +41,7 @@ namespace Bilet.Areas.Manage.Controllers
                 return View();
             }
             string fileName = Guid.NewGuid() + file.FileName;
-            using (var stream = new FileStream("C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\" + fileName, FileMode.Create))
+            using (var stream = new FileStream("C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\" + fileName, FileMode.Create))
             {
                 file.CopyTo(stream);
             }
@@ -52,9 +52,9 @@ namespace Bilet.Areas.Manage.Controllers
                 FacebookUrl = employeeVM.FacebookUrl,
                 InstagramUrl = employeeVM.InstagramUrl,
                 TwitterUrl = employeeVM.TwitterUrl,
-                LinkedinUrl=employeeVM.LinkedinUrl,
+                LinkedinUrl = employeeVM.LinkedinUrl,
                 PositionId = employeeVM.PositionId,
-                Description= employeeVM.Description
+                Description = employeeVM.Description
             };
             _context.Employees.Add(employee);
             _context.SaveChanges();
@@ -62,41 +62,40 @@ namespace Bilet.Areas.Manage.Controllers
         }
         public IActionResult Update(int? id)
         {
-            if (id is null || id==0 ) return NotFound();
-            Employee employee=_context.Employees.Find(id);
+            if (id is null || id == 0) return NotFound();
+            Employee employee = _context.Employees.Find(id);
             if (employee == null) return BadRequest();
             UpdateEmployeeVM employeeVM = new UpdateEmployeeVM
             {
                 Name = employee.Name,
-                FacebookUrl= employee.FacebookUrl,
-                TwitterUrl= employee.TwitterUrl,
-                InstagramUrl= employee.InstagramUrl,
-                LinkedinUrl= employee.LinkedinUrl,
-                Image =employee.ImageUrl,
-                Description= employee.Description,
-                PositionId= employee.PositionId,
+                FacebookUrl = employee.FacebookUrl,
+                TwitterUrl = employee.TwitterUrl,
+                InstagramUrl = employee.InstagramUrl,
+                LinkedinUrl = employee.LinkedinUrl,
+                Description = employee.Description,
+                PositionId = employee.PositionId,
             };
             return View(employeeVM);
         }
         [HttpPost]
-        public IActionResult Update(int? id,Employee employee)
+        public IActionResult Update(int? id, Employee employee)
         {
             Employee exist = _context.Employees.Find(id);
-            exist.Name=employee.Name;
-            exist.FacebookUrl=employee.FacebookUrl;
-            exist.TwitterUrl=employee.TwitterUrl;
-            exist.Description=employee.Description;
-            exist.InstagramUrl=employee.InstagramUrl;
-            exist.LinkedinUrl=employee.LinkedinUrl;
-            exist.ImageUrl=employee.ImageUrl;
-            exist.PositionId=employee.PositionId;
+            exist.Name = employee.Name;
+            exist.FacebookUrl = employee.FacebookUrl;
+            exist.TwitterUrl = employee.TwitterUrl;
+            exist.Description = employee.Description;
+            exist.InstagramUrl = employee.InstagramUrl;
+            exist.LinkedinUrl = employee.LinkedinUrl;
+            exist.ImageUrl = employee.ImageUrl;
+            exist.PositionId = employee.PositionId;
             _context.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
         public IActionResult Delete(int? id)
         {
-            if(id is null || id==0 ) return NotFound();
-            Employee employee= _context.Employees.Find(id);
+            if (id is null || id == 0) return NotFound();
+            Employee employee = _context.Employees.Find(id);
             if (employee == null) return BadRequest();
             _context.Employees.Remove(employee);
             _context.SaveChanges();
@@ -104,3 +103,4 @@ namespace Bilet.Areas.Manage.Controllers
         }
     }
 }
+

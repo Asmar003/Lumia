@@ -49,7 +49,11 @@ namespace Bilet.Areas.Manage.Controllers
             if (id is null || id == 0) return BadRequest();
             Position position = _context.Positions.Find(id);
             if (position == null) return NotFound();
-            return View(position);
+            UpdatePositionVM positionVM = new UpdatePositionVM
+            {
+                Name = position.Name
+            };
+            return View(positionVM);
         }
         [HttpPost]
         public IActionResult Update(int? id,Position position)

@@ -19,11 +19,11 @@
                     <tbody>
                         @foreach (Position item in Model)
                         {
-                            <tr>
-                                <td>@item.Name</td>
-                                <td><a asp-action="Update" asp-area="Manage" asp-controller="Position" asp-route-id="@item.Id">Update</a></td>
-                                <td><a asp-action="Delete" asp-area="Manage" asp-controller="Position" asp-route-id="@item.Id">Delete</a></td>
-                            </tr>
+                           <tr>
+                              <td>@item.Name</td>
+                              <td><a asp-action="Update" asp-area="Manage" asp-controller="Position" asp-route-id="@item.Id">Update</a></td>
+                              <td><a asp-action="Delete" asp-area="Manage" asp-controller="Position" asp-route-id="@item.Id">Delete</a></td>
+                           </tr>
                         }
                     </tbody>
                 </table>

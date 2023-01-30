@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "84xyvPoWRaQ1c7sWgKvFkJ2SoPustGABNZcMT8gE9+I=",
+  "Hash": "hHTSWlPPAxOiZZ8OfgN9W065Ne6vJ+PaJF5Q9uvxi+M=",
   "Source": "Bilet",
   "BasePath": "_content/Bilet",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Bilet\\wwwroot",
       "Source": "Bilet",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Bilet.styles.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Bilet.styles.css",
       "SourceId": "Bilet",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "Bilet.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Bilet.styles.css"
+      "OriginalItemSpec": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Bilet.styles.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Bilet.bundle.scp.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Bilet.bundle.scp.css",
       "SourceId": "Bilet",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "Bilet.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Bilet.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Bilet.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\css\\maps\\style.css.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\css\\maps\\style.css.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/css/maps/style.css.map",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\css\\maps\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\css\\style.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\css\\style.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/css/style.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\.DS_Store",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\.DS_Store",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/.DS_Store",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\auth\\.DS_Store",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\auth\\.DS_Store",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/auth/.DS_Store",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\auth\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/auth/lockscreen-bg.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/auth/login-bg.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\auth\\login-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/auth/register-bg.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\auth\\register-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\.DS_Store",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\.DS_Store",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/.DS_Store",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face1.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face1.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face10.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face10.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face10.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face11.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face11.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face11.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face12.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face12.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face12.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face13.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face13.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face13.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face14.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face14.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face14.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face15.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face15.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face15.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face16.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face16.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face16.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face17.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face17.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face17.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face18.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face18.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face18.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face19.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face19.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face19.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face2.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face2.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face20.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face20.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face20.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face21.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face21.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face21.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face22.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face22.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face22.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face23.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face23.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face23.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face24.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face24.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face24.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face25.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face25.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face25.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face26.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face26.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face26.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face27.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face27.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face27.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face3.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face3.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face4.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face4.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face5.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face5.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face6.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face6.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face7.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face7.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face7.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face8.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face8.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face8.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\faces\\face9.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/faces/face9.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face9.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\favicon.ico",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\favicon.ico",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/favicon.ico",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\favicon.png",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\favicon.png",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/favicon.png",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\logo.svg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\logo.svg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/logo.svg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\logo.svg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\images\\logo-mini.svg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\images\\logo-mini.svg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/images/logo-mini.svg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\logo-mini.svg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\js\\.DS_Store",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\js\\.DS_Store",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/js/.DS_Store",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\js\\chart.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\js\\chart.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/js/chart.js",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\chart.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\js\\Chart.min.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\js\\Chart.min.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/js/Chart.min.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\js\\dashboard.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\js\\dashboard.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/js/dashboard.js",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\js\\data-table.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\js\\data-table.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/js/data-table.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\data-table.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/js/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\js\\documentation.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\js\\documentation.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/js/documentation.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\documentation.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\js\\file-upload.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\js\\file-upload.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/js/file-upload.js",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\file-upload.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\js\\hoverable-collapse.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/js/hoverable-collapse.js",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\hoverable-collapse.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\js\\jquery.cookie.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\js\\jquery.cookie.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/js/jquery.cookie.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\jquery.cookie.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\js\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\js\\jquery.dataTables.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/js/jquery.dataTables.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\js\\off-canvas.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\js\\off-canvas.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/js/off-canvas.js",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\off-canvas.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\js\\tabs.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\js\\tabs.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/js/tabs.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\tabs.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\js\\template.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\js\\template.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/js/template.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\template.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\.DS_Store",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\.DS_Store",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/.DS_Store",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\_background.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\_background.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/_background.scss",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_background.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\_demo.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\_demo.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/_demo.scss",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_demo.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\_fonts.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\_fonts.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/_fonts.scss",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_fonts.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\_footer.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\_footer.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/_footer.scss",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\_functions.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\_functions.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/_functions.scss",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\_layouts.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\_layouts.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/_layouts.scss",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_layouts.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\_misc.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\_misc.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/_misc.scss",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_misc.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\_navbar.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\_navbar.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/_navbar.scss",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\_reset.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\_reset.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/_reset.scss",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_reset.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\_sidebar.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\_sidebar.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/_sidebar.scss",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_sidebar.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\_typography.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\_typography.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/_typography.scss",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_typography.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\_utilities.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\_utilities.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/_utilities.scss",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\_variables.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\_variables.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/_variables.scss",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\_vertical-wrapper.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\_vertical-wrapper.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/_vertical-wrapper.scss",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_vertical-wrapper.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\components\\.DS_Store",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\components\\.DS_Store",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/components/.DS_Store",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\components\\_badges.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\components\\_badges.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/components/_badges.scss",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_badges.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/components/_bootstrap-progress.scss",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\components\\_buttons.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\components\\_buttons.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/components/_buttons.scss",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\components\\_cards.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\components\\_cards.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/components/_cards.scss",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\components\\_checkbox-radio.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\components\\_checkbox-radio.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/components/_checkbox-radio.scss",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_checkbox-radio.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\components\\_dropdown.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\components\\_dropdown.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/components/_dropdown.scss",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\components\\_forms.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\components\\_forms.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/components/_forms.scss",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\components\\_icons.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\components\\_icons.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/components/_icons.scss",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_icons.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\components\\_lists.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\components\\_lists.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/components/_lists.scss",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_lists.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\components\\_tables.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\components\\_tables.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/components/_tables.scss",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/components/plugin-overrides/_data-tables.scss",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\landing-screens\\_auth.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\landing-screens\\_auth.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/landing-screens/_auth.scss",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\landing-screens\\_auth.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\mixins\\.DS_Store",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\mixins\\.DS_Store",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/mixins/.DS_Store",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\mixins\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\mixins\\_animation.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\mixins\\_animation.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/mixins/_animation.scss",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\mixins\\_animation.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\mixins\\_badges.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\mixins\\_badges.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/mixins/_badges.scss",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\mixins\\_badges.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\mixins\\_blockqoute.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\mixins\\_blockqoute.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/mixins/_blockqoute.scss",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\mixins\\_blockqoute.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\mixins\\_buttons.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\mixins\\_cards.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\mixins\\_cards.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/mixins/_cards.scss",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\mixins\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\mixins\\_misc.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\mixins\\_misc.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/mixins/_misc.scss",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\mixins\\_misc.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\scss\\style.scss",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\scss\\style.scss",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/scss/style.scss",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\style.scss"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\vendors\\.DS_Store",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\vendors\\.DS_Store",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/vendors/.DS_Store",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/vendors/base/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/vendors/base/vendor.bundle.base.css",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/vendors/base/vendor.bundle.base.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/vendors/chart.js/Chart.min.js",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\chart.js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/vendors/datatables.net/jquery.dataTables.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/vendors/datatables.net-bs4/dataTables.bootstrap4.css",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/vendors/datatables.net-bs4/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/vendors/mdi/css/materialdesignicons.min.css",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/vendors/mdi/css/materialdesignicons.min.css.map",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.eot",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.ttf",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.woff",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.woff2",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\css\\style.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/css/style.css",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\00406419-8449-4624-a111-22bd2b7785209398.webp",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\00406419-8449-4624-a111-22bd2b7785209398.webp",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/00406419-8449-4624-a111-22bd2b7785209398.webp",
       "AssetKind": "All",
@@ -1836,10 +1836,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\00406419-8449-4624-a111-22bd2b7785209398.webp"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\0962d15a-59b1-4260-9873-7ba06a96479c9398.webp",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\0523ebfc-7c73-4503-8bde-433204890397Interview-Tips-1.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
+      "BasePath": "_content/Bilet",
+      "RelativePath": "assets/img/0523ebfc-7c73-4503-8bde-433204890397Interview-Tips-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\0523ebfc-7c73-4503-8bde-433204890397Interview-Tips-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\0962d15a-59b1-4260-9873-7ba06a96479c9398.webp",
+      "SourceId": "Bilet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/0962d15a-59b1-4260-9873-7ba06a96479c9398.webp",
       "AssetKind": "All",
@@ -1853,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\0962d15a-59b1-4260-9873-7ba06a96479c9398.webp"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\3180bd82-ca75-4dcf-bd6f-c3ce1436ef9f9398.webp",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\3180bd82-ca75-4dcf-bd6f-c3ce1436ef9f9398.webp",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/3180bd82-ca75-4dcf-bd6f-c3ce1436ef9f9398.webp",
       "AssetKind": "All",
@@ -1870,10 +1887,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\3180bd82-ca75-4dcf-bd6f-c3ce1436ef9f9398.webp"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\83c619f4-6ffc-47e4-8b19-aa36e551d6b79398.webp",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\32a21978-06a2-4793-9dd3-e860b58de78esoftskills.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
+      "BasePath": "_content/Bilet",
+      "RelativePath": "assets/img/32a21978-06a2-4793-9dd3-e860b58de78esoftskills.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\32a21978-06a2-4793-9dd3-e860b58de78esoftskills.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\83c619f4-6ffc-47e4-8b19-aa36e551d6b79398.webp",
+      "SourceId": "Bilet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/83c619f4-6ffc-47e4-8b19-aa36e551d6b79398.webp",
       "AssetKind": "All",
@@ -1887,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\83c619f4-6ffc-47e4-8b19-aa36e551d6b79398.webp"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\a65b5887-4a1f-43c9-a9c5-599e61970f2fdepositphotos_13724501-stock-photo-businessman-with-touchpad.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\a65b5887-4a1f-43c9-a9c5-599e61970f2fdepositphotos_13724501-stock-photo-businessman-with-touchpad.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/a65b5887-4a1f-43c9-a9c5-599e61970f2fdepositphotos_13724501-stock-photo-businessman-with-touchpad.jpg",
       "AssetKind": "All",
@@ -1904,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\a65b5887-4a1f-43c9-a9c5-599e61970f2fdepositphotos_13724501-stock-photo-businessman-with-touchpad.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\about.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\about.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/about.jpg",
       "AssetKind": "All",
@@ -1921,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\about.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\apple-touch-icon.png",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\apple-touch-icon.png",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/apple-touch-icon.png",
       "AssetKind": "All",
@@ -1938,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\apple-touch-icon.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\e5249e2c-977d-408d-bd77-9d6da33fb3fd9398.webp",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\e5249e2c-977d-408d-bd77-9d6da33fb3fd9398.webp",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/e5249e2c-977d-408d-bd77-9d6da33fb3fd9398.webp",
       "AssetKind": "All",
@@ -1955,10 +1989,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\e5249e2c-977d-408d-bd77-9d6da33fb3fd9398.webp"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\favicon.png",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\f963ee1e-9946-4f66-85b2-5ea02a2e7db2Interview-Tips-1.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
+      "BasePath": "_content/Bilet",
+      "RelativePath": "assets/img/f963ee1e-9946-4f66-85b2-5ea02a2e7db2Interview-Tips-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\f963ee1e-9946-4f66-85b2-5ea02a2e7db2Interview-Tips-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\favicon.png",
+      "SourceId": "Bilet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/favicon.png",
       "AssetKind": "All",
@@ -1972,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\hero-bg.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\hero-bg.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/hero-bg.jpg",
       "AssetKind": "All",
@@ -1989,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\hero-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\portfolio\\portfolio-1.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\portfolio\\portfolio-1.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/portfolio/portfolio-1.jpg",
       "AssetKind": "All",
@@ -2006,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\portfolio-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\portfolio\\portfolio-2.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\portfolio\\portfolio-2.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/portfolio/portfolio-2.jpg",
       "AssetKind": "All",
@@ -2023,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\portfolio-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\portfolio\\portfolio-3.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\portfolio\\portfolio-3.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/portfolio/portfolio-3.jpg",
       "AssetKind": "All",
@@ -2040,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\portfolio-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\portfolio\\portfolio-4.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\portfolio\\portfolio-4.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/portfolio/portfolio-4.jpg",
       "AssetKind": "All",
@@ -2057,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\portfolio-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\portfolio\\portfolio-5.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\portfolio\\portfolio-5.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/portfolio/portfolio-5.jpg",
       "AssetKind": "All",
@@ -2074,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\portfolio-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\portfolio\\portfolio-6.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\portfolio\\portfolio-6.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/portfolio/portfolio-6.jpg",
       "AssetKind": "All",
@@ -2091,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\portfolio-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\portfolio\\portfolio-7.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\portfolio\\portfolio-7.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/portfolio/portfolio-7.jpg",
       "AssetKind": "All",
@@ -2108,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\portfolio-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\portfolio\\portfolio-8.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\portfolio\\portfolio-8.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/portfolio/portfolio-8.jpg",
       "AssetKind": "All",
@@ -2125,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\portfolio-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\portfolio\\portfolio-9.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\portfolio\\portfolio-9.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/portfolio/portfolio-9.jpg",
       "AssetKind": "All",
@@ -2142,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\portfolio-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\portfolio-details-1.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\portfolio-details-1.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/portfolio-details-1.jpg",
       "AssetKind": "All",
@@ -2159,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio-details-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\portfolio-details-2.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\portfolio-details-2.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/portfolio-details-2.jpg",
       "AssetKind": "All",
@@ -2176,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio-details-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\portfolio-details-3.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\portfolio-details-3.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/portfolio-details-3.jpg",
       "AssetKind": "All",
@@ -2193,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio-details-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\team\\team-1.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\team\\team-1.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/team/team-1.jpg",
       "AssetKind": "All",
@@ -2210,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team\\team-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\team\\team-2.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\team\\team-2.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/team/team-2.jpg",
       "AssetKind": "All",
@@ -2227,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team\\team-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\team\\team-3.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\team\\team-3.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/team/team-3.jpg",
       "AssetKind": "All",
@@ -2244,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team\\team-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\testimonials\\testimonials-1.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\testimonials\\testimonials-1.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/testimonials/testimonials-1.jpg",
       "AssetKind": "All",
@@ -2261,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\testimonials\\testimonials-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\testimonials\\testimonials-2.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\testimonials\\testimonials-2.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/testimonials/testimonials-2.jpg",
       "AssetKind": "All",
@@ -2278,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\testimonials\\testimonials-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\testimonials\\testimonials-3.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\testimonials\\testimonials-3.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/testimonials/testimonials-3.jpg",
       "AssetKind": "All",
@@ -2295,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\testimonials\\testimonials-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\testimonials\\testimonials-4.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\testimonials\\testimonials-4.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/testimonials/testimonials-4.jpg",
       "AssetKind": "All",
@@ -2312,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\testimonials\\testimonials-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\img\\testimonials\\testimonials-5.jpg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\img\\testimonials\\testimonials-5.jpg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/img/testimonials/testimonials-5.jpg",
       "AssetKind": "All",
@@ -2329,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\testimonials\\testimonials-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\js\\main.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\js\\main.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/js/main.js",
       "AssetKind": "All",
@@ -2346,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\scss\\Readme.txt",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\scss\\Readme.txt",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/scss/Readme.txt",
       "AssetKind": "All",
@@ -2363,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\Readme.txt"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -2380,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2397,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2414,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2431,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2448,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2465,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2482,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2499,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2516,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2533,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2550,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2567,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2584,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2601,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2618,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2635,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2652,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2669,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2686,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2703,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2720,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2737,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2754,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2771,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2788,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2805,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2822,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2839,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2856,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2873,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2890,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2907,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2924,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2941,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2958,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2975,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2992,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -3009,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -3026,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -3043,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -3060,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3077,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3094,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3111,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap-icons/bootstrap-icons.css",
       "AssetKind": "All",
@@ -3128,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap-icons/bootstrap-icons.json",
       "AssetKind": "All",
@@ -3145,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff",
       "AssetKind": "All",
@@ -3162,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2",
       "AssetKind": "All",
@@ -3179,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\boxicons\\css\\animations.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\boxicons\\css\\animations.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/boxicons/css/animations.css",
       "AssetKind": "All",
@@ -3196,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\boxicons\\css\\animations.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/boxicons/css/boxicons.css",
       "AssetKind": "All",
@@ -3213,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/boxicons/css/boxicons.min.css",
       "AssetKind": "All",
@@ -3230,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\boxicons\\css\\transformations.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\boxicons\\css\\transformations.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/boxicons/css/transformations.css",
       "AssetKind": "All",
@@ -3247,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\boxicons\\css\\transformations.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/boxicons/fonts/boxicons.eot",
       "AssetKind": "All",
@@ -3264,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/boxicons/fonts/boxicons.svg",
       "AssetKind": "All",
@@ -3281,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/boxicons/fonts/boxicons.ttf",
       "AssetKind": "All",
@@ -3298,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/boxicons/fonts/boxicons.woff",
       "AssetKind": "All",
@@ -3315,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/boxicons/fonts/boxicons.woff2",
       "AssetKind": "All",
@@ -3332,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/glightbox/css/glightbox.css",
       "AssetKind": "All",
@@ -3349,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/glightbox/css/glightbox.min.css",
       "AssetKind": "All",
@@ -3366,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/glightbox/css/plyr.css",
       "AssetKind": "All",
@@ -3383,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\glightbox\\css\\plyr.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.min.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.min.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/glightbox/css/plyr.min.css",
       "AssetKind": "All",
@@ -3400,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\glightbox\\css\\plyr.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/glightbox/js/glightbox.js",
       "AssetKind": "All",
@@ -3417,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/glightbox/js/glightbox.min.js",
       "AssetKind": "All",
@@ -3434,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/isotope-layout/isotope.pkgd.js",
       "AssetKind": "All",
@@ -3451,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/isotope-layout/isotope.pkgd.min.js",
       "AssetKind": "All",
@@ -3468,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/php-email-form/validate.js",
       "AssetKind": "All",
@@ -3485,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\php-email-form\\validate.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/purecounter/purecounter_vanilla.js",
       "AssetKind": "All",
@@ -3502,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/swiper/swiper-bundle.min.css",
       "AssetKind": "All",
@@ -3519,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/swiper/swiper-bundle.min.js",
       "AssetKind": "All",
@@ -3536,10 +3587,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/swiper/swiper-bundle.min.js.map",
       "AssetKind": "All",
@@ -3553,10 +3604,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\assets\\vendor\\waypoints\\noframework.waypoints.js",
+      "Identity": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\assets\\vendor\\waypoints\\noframework.waypoints.js",
       "SourceId": "Bilet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r215.16\\source\\repos\\Bilet\\Bilet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asmar\\OneDrive\\İş masası\\Lumıa\\Lumia\\Bilet\\wwwroot\\",
       "BasePath": "_content/Bilet",
       "RelativePath": "assets/vendor/waypoints/noframework.waypoints.js",
       "AssetKind": "All",

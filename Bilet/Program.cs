@@ -18,6 +18,7 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
     opt.Password.RequireNonAlphanumeric = true;
     opt.Password.RequiredLength = 3;
     opt.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!";
+    opt.Lockout.AllowedForNewUsers = true;
 }).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>(); ;
 var app = builder.Build();
 
